@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//28卒インターン締切カレンダー//JP
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:28卒サマーインターン締切
+X-WR-TIMEZONE:Asia/Tokyo
+X-WR-CALDESC:28卒向けサマーインターン・夏選考ES締切一覧（2026年6月）
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:【コンサル☆MBB】BCG Summer Internship
+DESCRIPTION:ES締切\nhttps://careers.bcg.com/jp/ja/internship-opportunities
+URL:https://careers.bcg.com/jp/ja/internship-opportunities
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:【コンサル☆MBB】ベイン・アンド・カンパニー サマーインターン
+DESCRIPTION:ES締切\nhttps://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/
+URL:https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:【コンサル☆Big4】PwC Strategy& 戦略コンサルタント職
+DESCRIPTION:ES締切\nhttps://www.strategyand.pwc.com/jp/ja/careers/applying-to-strategy.html
+URL:https://www.strategyand.pwc.com/jp/ja/careers/applying-to-strategy.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:【金融】野村總合研究所 実践型インターン 経営戦略コンサルティング
+DESCRIPTION:ES締切\nhttps://working.nri.co.jp/recruit/
+URL:https://working.nri.co.jp/recruit/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:【金融】野村證券 IB 5daysワークショップ
+DESCRIPTION:ES締切\nhttps://www.nomura.co.jp/recruit/
+URL:https://www.nomura.co.jp/recruit/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:【メーカー】P&Gジャパン 内定直結型インターン
+DESCRIPTION:ES締切\nhttps://www.pg.com/ja_JP/careers/students.html
+URL:https://www.pg.com/ja_JP/careers/students.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:【IT】NTTデータグループ インターンシップ
+DESCRIPTION:ES締切\nhttps://nttdata-recruit.com/event/internship.html
+URL:https://nttdata-recruit.com/event/internship.html
+END:VEVENT
+
+END:VCALENDAR
