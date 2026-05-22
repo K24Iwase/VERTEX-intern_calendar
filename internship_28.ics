@@ -1,32 +1,152 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//28卒インターン締切カレンダー//JP
+PRODID:-//28卒サマーインターン締切カレンダー//JP
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:28卒サマーインターン締切
 X-WR-TIMEZONE:Asia/Tokyo
-X-WR-CALDESC:28卒向けサマーインターン・夏選考ES締切一覧（2026年6月）
+X-WR-CALDESC:28卒向けサマーインターン・夏選考ES締切一覧（2026年5-6月）
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:【コンサル】マッキンゼー・アンド・カンパニー 夏選考
+DESCRIPTION:ES締切\nhttps://www.mckinsey.com/jp/careers
+URL:https://www.mckinsey.com/jp/careers
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:【外銀】モルガン・スタンレー
+DESCRIPTION:ES締切\nhttps://www.morganstanley.com/ja/careers
+URL:https://www.morganstanley.com/ja/careers
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:【外銀】バンク・オブ・アメリカ グローバルテクノロジー
+DESCRIPTION:ES締切\nhttps://careers.bankofamerica.com/
+URL:https://careers.bankofamerica.com/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:【コンサル】KPMGコンサルティング
+DESCRIPTION:ES締切\nhttps://kpmg.com/jp/ja/home/careers/internship.html
+URL:https://kpmg.com/jp/ja/home/careers/internship.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:【外銀】フーリハン・ローキー
+DESCRIPTION:ES締切\nhttps://www.hl.com/japan/ja/careers/
+URL:https://www.hl.com/japan/ja/careers/
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-SUMMARY:【コンサル☆MBB】BCG Summer Internship
-DESCRIPTION:ES締切\nhttps://careers.bcg.com/jp/ja/internship-opportunities
-URL:https://careers.bcg.com/jp/ja/internship-opportunities
+SUMMARY:【コンサル】EYストラテジー・アンド・コンサルティング Business Consultant
+DESCRIPTION:ES締切\nhttps://www.eysc.jp/careers/students/
+URL:https://www.eysc.jp/careers/students/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:【コンサル】デロイト トーマツ ファイナンシャルアドバイザリー 本選考
+DESCRIPTION:ES締切\nhttps://www2.deloitte.com/jp/ja/careers/dtfa/students.html
+URL:https://www2.deloitte.com/jp/ja/careers/dtfa/students.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:【コンサル】デロイト トーマツ エクイティアドバイザリー 本選考
+DESCRIPTION:ES締切\nhttps://www2.deloitte.com/jp/ja/careers/dtc/students.html
+URL:https://www2.deloitte.com/jp/ja/careers/dtc/students.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:【コンサル】Korn Ferry Japan 1次
+DESCRIPTION:ES締切\nhttps://www.kornferry.com/ja/insights/saiyou
+URL:https://www.kornferry.com/ja/insights/saiyou
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:【コンサル】BCG（ボストン コンサルティング グループ）Summer Internship
+DESCRIPTION:応募締切：2026年6月4日（木）15:00\nhttps://careers.bcg.com/jp/ja/japan-new-grads-2028
+URL:https://careers.bcg.com/jp/ja/japan-new-grads-2028
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:【金融】三菱UFJ信託銀行 インターンシップ
+DESCRIPTION:ES締切：2026年6月4日（木）23:59\nhttps://mypage.3070.i-webs.jp/mutb2028/
+URL:https://mypage.3070.i-webs.jp/mutb2028/
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
-SUMMARY:【コンサル☆MBB】ベイン・アンド・カンパニー サマーインターン
-DESCRIPTION:ES締切\nhttps://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/
+SUMMARY:【コンサル】アクセンチュア インターンシップ
+DESCRIPTION:ES締切\nhttps://www.accenture.com/jp-ja/careers/life-at-accenture/internships-students
+URL:https://www.accenture.com/jp-ja/careers/life-at-accenture/internships-students
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:【コンサル】EYストラテジー・アンド・コンサルティング Technology Consultant
+DESCRIPTION:ES締切\nhttps://www.eysc.jp/careers/students/
+URL:https://www.eysc.jp/careers/students/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:【商社】ファーストリテイリング BRAND SUMMER PROGRAM
+DESCRIPTION:ES締切\nhttps://www.fastretailing.com/employment/
+URL:https://www.fastretailing.com/employment/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:【コンサル】ベイン・アンド・カンパニー サマーインターンシップ
+DESCRIPTION:応募締切：2026年6月10日（水）13:00\nhttps://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/
 URL:https://www.bain.com/ja/careers/hiring-process/tokyo/domestic-undergrad/
 END:VEVENT
 
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
-SUMMARY:【コンサル☆Big4】PwC Strategy& 戦略コンサルタント職
+SUMMARY:【外銀】バンク・オブ・アメリカ 投資銀行・資本市場・金融市場債券部門
+DESCRIPTION:ES締切\nhttps://careers.bankofamerica.com/
+URL:https://careers.bankofamerica.com/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:【コンサル】デロイト トーマツ コンサルティング（アンケート締切6/4）
+DESCRIPTION:ES締切（アンケート締切は6/4）\nhttps://www2.deloitte.com/jp/ja/careers/dtc/internship.html
+URL:https://www2.deloitte.com/jp/ja/careers/dtc/internship.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:【コンサル】PwCコンサルティング Strategy& サマーインターン
 DESCRIPTION:ES締切\nhttps://www.strategyand.pwc.com/jp/ja/careers/applying-to-strategy.html
 URL:https://www.strategyand.pwc.com/jp/ja/careers/applying-to-strategy.html
 END:VEVENT
@@ -34,15 +154,79 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
-SUMMARY:【金融】野村總合研究所 実践型インターン 経営戦略コンサルティング
-DESCRIPTION:ES締切\nhttps://working.nri.co.jp/recruit/
-URL:https://working.nri.co.jp/recruit/
+SUMMARY:【コンサル】EYストラテジー・アンド・コンサルティング Business Consultant（2次）
+DESCRIPTION:ES締切\nhttps://www.eysc.jp/careers/students/
+URL:https://www.eysc.jp/careers/students/
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260621
-SUMMARY:【金融】野村證券 IB 5daysワークショップ
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:【コンサル】Korn Ferry Japan 最終
+DESCRIPTION:ES締切\nhttps://www.kornferry.com/ja/insights/saiyou
+URL:https://www.kornferry.com/ja/insights/saiyou
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:【金融】大和証券 資産コンサルタントコース
+DESCRIPTION:ES締切\nhttps://www.daiwa-grp-recruit.jp/internship/
+URL:https://www.daiwa-grp-recruit.jp/internship/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:【コンサル】A.T.カーニー サマーインターン
+DESCRIPTION:ES締切\nhttps://www.kearney.com/ja/careers
+URL:https://www.kearney.com/ja/careers
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:【メーカー】ユニリーバ・ジャパン インターンシップ
+DESCRIPTION:ES締切\nhttps://www.unilever.com/careers/
+URL:https://www.unilever.com/careers/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:【コンサル】PwCコンサルティング XVS
+DESCRIPTION:ES締切\nhttps://www.pwc.com/jp/ja/careers/consulting/campus/selection.html
+URL:https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:【コンサル】三菱UFJリサーチ&コンサルティング 経営戦略部門（第1〜3回）
+DESCRIPTION:ES締切\nhttps://www.murc.jp/recruit/
+URL:https://www.murc.jp/recruit/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:【コンサル】PwCコンサルティング DC
+DESCRIPTION:ES締切\nhttps://www.pwc.com/jp/ja/careers/consulting/campus/selection.html
+URL:https://www.pwc.com/jp/ja/careers/consulting/campus/selection.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:【コンサル】PwCアドバイザリー M&A・戦略コンサルタント
+DESCRIPTION:ES締切\nhttps://www.pwc.com/jp/ja/careers/advisory/campus.html
+URL:https://www.pwc.com/jp/ja/careers/advisory/campus.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:【金融】野村證券 ウェルス・マネジメント／グローバル・マーケッツ
 DESCRIPTION:ES締切\nhttps://www.nomura.co.jp/recruit/
 URL:https://www.nomura.co.jp/recruit/
 END:VEVENT
@@ -50,17 +234,57 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:【メーカー】P&Gジャパン 内定直結型インターン
+SUMMARY:【メーカー】パナソニック BUSINESS WORKSHOP
+DESCRIPTION:ES締切\nhttps://recruit.jpn.panasonic.com/internship/
+URL:https://recruit.jpn.panasonic.com/internship/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:【コンサル】PwCアドバイザリー
+DESCRIPTION:ES締切\nhttps://www.pwc.com/jp/ja/careers/advisory/campus.html
+URL:https://www.pwc.com/jp/ja/careers/advisory/campus.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:【メーカー】P&Gジャパン インターンシップ
 DESCRIPTION:ES締切\nhttps://www.pg.com/ja_JP/careers/students.html
 URL:https://www.pg.com/ja_JP/careers/students.html
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:【金融】日本生命 NISSAY Internship 4次
+DESCRIPTION:ES締切\nhttps://www.nissay-saiyo.com/data/internship/
+URL:https://www.nissay-saiyo.com/data/internship/
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
-SUMMARY:【IT】NTTデータグループ インターンシップ
-DESCRIPTION:ES締切\nhttps://nttdata-recruit.com/event/internship.html
-URL:https://nttdata-recruit.com/event/internship.html
+SUMMARY:【コンサル】KPMG FAS
+DESCRIPTION:ES締切\nhttps://kpmg.com/jp/ja/home/careers/internship.html
+URL:https://kpmg.com/jp/ja/home/careers/internship.html
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:【外銀】フーリハン・ローキー
+DESCRIPTION:ES締切\nhttps://www.hl.com/japan/ja/careers/
+URL:https://www.hl.com/japan/ja/careers/
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:【金融】みずほフィナンシャルグループ
+DESCRIPTION:ES締切\nhttps://www.mizuho-fg.co.jp/recruit/
+URL:https://www.mizuho-fg.co.jp/recruit/
 END:VEVENT
 
 END:VCALENDAR
